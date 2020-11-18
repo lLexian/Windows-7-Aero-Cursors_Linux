@@ -1,5 +1,5 @@
-# Windows-7-Aero-Cursors_Purple-Loading-Circle
-Windows 7 Aero Cursors with a purple loading wheel ported over to linux. I've also added a macos style open and close hand as there isn't really an alternative on Windows.
+# Windows-7-Aero-Cursors
+Windows 7 Aero Cursors ported over to linux. I've also added a macos style open and close hand, as there isn't really an alternative on Windows.
 
 ***
 
